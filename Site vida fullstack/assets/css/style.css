@@ -12,9 +12,16 @@
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
-    text-decoration: none;
     font-family: "Source Code Pro", monospace;
     font-weight: 300;
+    text-decoration: none;
+    list-style: none;
+}
+body
+{
+    background-image: url(../images/bolha-background.png);
+    background-repeat: no-repeat;
+    position: left center;
 }
 .container
 {
