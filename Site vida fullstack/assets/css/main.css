@@ -14,17 +14,20 @@
     font-weight: 400;
     color: #333366
 }
+.sobre-web-design article h2,
+.sobre-web-design article p 
+{
+    color: #3399cc;
+}
 .sobre-web-design article h2
 {
     font-size: 30px;
     text-transform: uppercase;
     letter-spacing: 2px;
     line-height: 200%;
-    color: #3399cc;
 }
 .sobre-web-design article p
 {
-    color: #3399cc;
     margin: 10px 0 30px;
 }
 .sobre-web-design figcaption img
