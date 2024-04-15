@@ -60,6 +60,18 @@
     }
 }
 
+@media(max-width: 615px)
+{
+    .container
+    {
+        width: 400px;
+    }
+    header nav ul
+    {
+        flex-direction: column;
+    }
+}
+
 @media(max-width:450px)
 {
     .container
